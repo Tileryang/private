@@ -17,7 +17,7 @@
     "devtools": "react-devtools",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://Tileryang.github.io/github-actions-demo",
+  "homepage": ".",
   "eslintConfig": {
     "extends": "react-app"
   },

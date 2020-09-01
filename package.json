@@ -15,6 +15,7 @@
     "eject": "react-scripts eject",
     "devtools": "react-devtools"
   },
+  "homepage": "https://Tileryang.github.io/github-actions-demo",
   "eslintConfig": {
     "extends": "react-app"
   },

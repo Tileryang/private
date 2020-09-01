@@ -27,4 +27,4 @@ jobs:
     - run: npm ci
     - run: npm install --registry=https://registry.npm.taobao.org
     - run: npm run build --if-present
-    - run: npm start
+    - run: npm run start
